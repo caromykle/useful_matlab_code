@@ -1,3 +1,6 @@
 # Don't track the content of files with this file extension:
-
 *.m~
+
+# Attempt to remove & untrack certain file from repo.
+*.DS_Store
+/.DS_Store
