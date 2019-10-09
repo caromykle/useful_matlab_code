@@ -1,7 +1,7 @@
 function [ du_x ] = Dx( u )
 % APPROXIMATING FIRST DERIVATIVE
 %-------------------------------
-% -Caroline Myklebust 08.10.2019
+
 % Constructing a linear operator matrix which returns a periodic, onesided
 % approximation of the first partial derivative in x of a input matrix u.
 
